@@ -14,4 +14,7 @@ To run this locally, ensure you have the Pandas, Pandastable, Tkinter, and Pytho
 ----
 
 This project was a group project of 5 for a database class in my graduate studies. My responsibilities involved:
-* test
+* Designing the database schemas and constraints
+* Writing the SQL queries for the reports 
+* Design and implementation of all UI views in the Reports directory
+* Writing a custom class that inherits from the publically available pandastable; some method overwriting to make the functionality more compatible with the project's use case.
