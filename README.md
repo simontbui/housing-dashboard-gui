@@ -24,3 +24,4 @@ Because of the deadlines and requirements we had for this class, I think several
 * More robust infrastructure -- i.e. decoupling the database from the client 
 * Better data validations
 * Handling concurrency and security
+* Refactor to make the code cleaner and more maintainable. We designed the code in a divide and conquer fashion amongst our team with a looming deadline in mind. I think the code quality reflects this and we could definitely improve on it. 
