@@ -18,3 +18,9 @@ This project was a group project of 5 for a database class in my graduate studie
 * Writing the SQL queries for the reports 
 * Design and implementation of all UI views in the Reports directory
 * Writing a custom class that inherits from the publically available pandastable; some method overwriting to make the functionality more compatible with the project's use case.
+
+Because of the deadlines and requirements we had for this class, I think several improvements (and others) could be made:
+* Better and more modern UI; the class grading was focused on functionality and database design so we did not focus on the UI/UX as much as we could have
+* More robust infrastructure -- i.e. decoupling the database from the client 
+* Better data validations
+* Handling concurrency and security
